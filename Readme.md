@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Zhanylmyrza Taalaibek kyzy](https://up.htmlacademy.ru/htmlcss/35/user/2181095).
-* Наставник: `Неизвестно`.
+* Наставник: `Антон Варнавский✔`.
 
 ---
 
